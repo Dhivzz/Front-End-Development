@@ -23,10 +23,7 @@ Huge IT Solutions is a company focused on providing top-notch IT services. This 
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- **Bootstrap** (for responsive design)
-- **jQuery** (for interactive elements)
-- **PHP** (for backend form handling)
-- **MySQL** (for storing form submissions)
+
 
 ## Setup Instructions
 
